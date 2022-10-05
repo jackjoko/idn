@@ -1,8 +1,8 @@
 {
-  "name-web":"STACKOVERFLOW MASKODING",
-  "author":"MASKODING",
+  "name-web":"Indian News",
+  "author":"indian",
   "remove-comment-html":true,
-  "target":"https://stackoverflow.com",
+  "target":"https://www.indiatimes.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
@@ -20,7 +20,7 @@
   ],
   "costom-element-remove":[
     {
-      "target":"stackoverflow.com",
+      "target":"www.indiatimes.com",
       "element-remove-selector":[
         ".js-dismissable-hero",
         ".lazy-loading"
